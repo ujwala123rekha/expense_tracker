@@ -1,0 +1,14 @@
+[
+    {
+        "date": "2025-06-09",
+        "category": "Vadapav",
+        "amount": 25.0,
+        "note": "Banshankari"
+    },
+    {
+        "date": "2025-06-10",
+        "category": "PaniPuri",
+        "amount": 40.0,
+        "note": "Church Street"
+    }
+]
